@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Demo- {+title /}</title>
+     {+pageStyles /}
+  </head>
+  <body>
+  <div class="navbar navbar-fixed-top">
+    Header
+  </div>
+    {+body /}
+  <footer>
+    <div class="container">
+      <p>Footer &copy;</p>
+    </div>
+  </footer>
+
+  {+pageScripts /}
+  </body>
+</html>
